@@ -1,4 +1,4 @@
-<p><b>Olá mundo! Aqui é o Bruno Aguiar</b></p>
+<img src="https://raw.githubusercontent.com/brunoaguiar-pro/brunoaguiar-pro/main/Hello%20World!%20I%20am%20Bruno%20Aguiar.gif" alt="Descrição da imagem">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=brunoaguiar-pro&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
