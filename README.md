@@ -2,7 +2,10 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=brunoaguiar-pro&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaguiar-pro&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquearaujo&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 
 
 <p dir="auto" _msthash="1915641" _msttexthash="34711443">Sou um desenvolvedor brasileiro pleno que fala em inglês, espanhol e português. Trabalho com desenvolvimento há mais de 5 anos, desde então trabalhei com linguagens como PHP, HTML/CSS, JS, TS, NodeJS, React e Vue. Estou sempre pronto para me adaptar a qualquer novo idioma.</p>
