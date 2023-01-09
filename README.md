@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/brunoaguiar-pro/brunoaguiar-pro/main/Hello%20World!%20I%20am%20Bruno%20Aguiar%20(1).gif" alt="Descrição da imagem">
 
 
-![](https://github-readme-stats.vercel.app/api?username=brunoaguiar-pro&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=brunoaguiar-pro&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquearaujo&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
